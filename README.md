@@ -11,7 +11,6 @@ I'm a backend and systems engineer with a passion for infrastructure, distribute
 
 ### Backend & Infrastructure:
 
-[![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)]()
 [![net/http](https://img.shields.io/badge/-net%2Fhttp-00ADD8?style=flat-square&logo=go&logoColor=white)]()
 [![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white)]()
 [![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)]()
